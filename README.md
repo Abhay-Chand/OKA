@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/abhay-chand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay-chand" height="30" width="40" /></a>
 <a href="https://instagram.com/abhay__chand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay__chand" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chandabhay639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandabhay639" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhay__chand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay__chand" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/oka__woo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oka__woo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
