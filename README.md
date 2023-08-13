@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandabhay63" target="blank"><img src="https://img.shields.io/twitter/follow/chandabhay63?logo=twitter&style=for-the-badge" alt="chandabhay63" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithm   **
 
 - 📫 How to reach me **chandabhay639@gmail.com**
 
