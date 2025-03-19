@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Hi 👋, I'm ABHAY CHAND </h1>
 <h3 align="center"> A passionate learner of AI Student 🤖 </h3>
 
@@ -28,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay-chand&show_icons=true&locale=en" alt="abhay-chand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-chand&" alt="abhay-chand" /></p>
+
+</dev>
